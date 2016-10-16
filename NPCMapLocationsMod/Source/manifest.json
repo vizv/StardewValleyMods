@@ -1,0 +1,14 @@
+{
+  "Name": "NPC Map Locations Mod",
+  "Authour": "Bouhm",
+  "Version": {
+    "MajorVersion": 1,
+    "MinorVersion": 4,
+    "PatchVersion": 1,
+    "Build": ""
+  },
+  "Description": "Shows NPC locations on the map",
+  "UniqueID": "BouhmNPCMapLocationsMod",
+  "PerSaveConfigs": false,
+  "EntryDll": "NPCMapLocations.dll"
+}
